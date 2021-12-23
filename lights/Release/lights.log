@@ -1,0 +1,8 @@
+﻿  lights.cpp
+C:\Users\JC\source\repos\lights\lights.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  12 of 178 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  lights.vcxproj -> C:\Users\JC\source\repos\lights\Release\lights.exe

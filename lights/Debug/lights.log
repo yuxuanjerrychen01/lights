@@ -1,0 +1,3 @@
+﻿  lights.cpp
+C:\Users\JC\source\repos\lights\lights.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+  lights.vcxproj -> C:\Users\JC\source\repos\lights\Debug\lights.exe
